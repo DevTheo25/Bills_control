@@ -8,8 +8,8 @@ Bills Control é um projeto de software desenvolvido para solucionar a falta de 
 - **Adicionar contas a pagar:** Esta funcionalidade permite a inclusão de novas contas a pagar, fornecendo campos para inserir o nome, valor e data de vencimento de cada conta.
 - **Clonar Conta:** Ao acionar a opção "Clonar Conta", essa função facilita o registro de contas recorrentes, permitindo replicar uma conta para todos os meses subsequentes de forma rápida e simples.
 
-![Clonar Conta](https://github.com/DevTheo25/Bills_control/assets/122491960/50348af4-5a72-4007-b495-03e4a7fc1291)
-![image](https://github.com/DevTheo25/Bills_control/assets/122491960/31abad78-8f16-4a2f-8e1e-19783ec7df06)
+![image](https://github.com/DevTheo25/Bills_control/assets/122491960/2f7f2f25-249e-41b5-a8fa-789226bb2689)
+![image](https://github.com/DevTheo25/Bills_control/assets/122491960/7ab42fcf-7932-42d3-bdd1-4e8d7d358645)
 
 - **Filtro por mês:** Com esta funcionalidade, é possível controlar todas as contas pagas e não pagas de forma separada por mês, oferecendo uma visão detalhada do histórico financeiro mensal.
 - **Exportar dados CSV:** Esta funcionalidade possibilita exportar os dados do aplicativo em formato CSV, permitindo análises mais aprofundadas e personalizadas das finanças.
@@ -19,8 +19,8 @@ Bills Control é um projeto de software desenvolvido para solucionar a falta de 
 
 - **Wallet:** Esta função oferece acesso a uma nova janela onde é possível armazenar e gerenciar informações de cartões de crédito/débito. Além disso, permite copiar os dados dos cartões com apenas um clique, proporcionando praticidade e segurança.
 
-![Wallet](https://github.com/DevTheo25/Bills_control/assets/122491960/b9742833-e481-4bb6-8f42-93b52ba2729e)
-![Wallet](https://github.com/DevTheo25/Bills_control/assets/122491960/5d44bda7-f792-4a08-891d-2ccb7a532af2)
+![image](https://github.com/DevTheo25/Bills_control/assets/122491960/ada15f72-d9b3-4a9a-bb06-23fe42f98759)
+![image](https://github.com/DevTheo25/Bills_control/assets/122491960/c3280f18-a269-4ff2-b759-3b7f274f8a0c)
 
 ## Tecnologias Utilizadas
 - Python

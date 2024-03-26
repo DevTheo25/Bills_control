@@ -18,16 +18,19 @@ Bills Control é um projeto de software desenvolvido para solucionar a falta de 
 
 ## Demonstração:
 - Adicionar contas a pagar & Clonar Conta:
+
 ![image](https://github.com/DevTheo25/Bills_control/assets/122491960/2f7f2f25-249e-41b5-a8fa-789226bb2689)
 ![image](https://github.com/DevTheo25/Bills_control/assets/122491960/7ab42fcf-7932-42d3-bdd1-4e8d7d358645)
 
 
 - Filtro por mês & Exportar dados CSV:
+  
 ![Exportar CSV](https://github.com/DevTheo25/Bills_control/assets/122491960/288fcaac-a64c-4ef4-81e0-eae2284670b9)
 ![Exportar CSV](https://github.com/DevTheo25/Bills_control/assets/122491960/488c055c-aef2-462a-9168-6bc82682cc81)
 
 
 # Wallet
+
 ![image](https://github.com/DevTheo25/Bills_control/assets/122491960/ada15f72-d9b3-4a9a-bb06-23fe42f98759)
 ![image](https://github.com/DevTheo25/Bills_control/assets/122491960/c3280f18-a269-4ff2-b759-3b7f274f8a0c)
 

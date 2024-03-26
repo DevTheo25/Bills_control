@@ -9,10 +9,12 @@ Bills Control foi desenvolvido integralmente em Python, utilizando o framework "
 
 - Adicionar contas a pagar: Esta funcionalidade permite a inclusão de novas contas a pagar, fornecendo campos para inserir o nome, valor e data de vencimento de cada conta.
 - Clonar Conta: Ao acionar a opção "Clonar Conta", essa função facilita o registro de contas recorrentes, permitindo replicar uma conta para todos os meses subsequentes de forma rápida e simples.
+
 ![image](https://github.com/DevTheo25/Bills_control/assets/122491960/50348af4-5a72-4007-b495-03e4a7fc1291) ![image](https://github.com/DevTheo25/Bills_control/assets/122491960/31abad78-8f16-4a2f-8e1e-19783ec7df06)
 
 - Filtro por mês: Com esta funcionalidade, é possível controlar todas as contas pagas e não pagas de forma separada por mês, oferecendo uma visão detalhada do histórico financeiro mensal.
-- Exportar dados CSV: Esta funcionalidade possibilita exportar os dados do aplicativo em formato CSV, permitindo análises mais aprofundadas e personalizadas das finanças
+- Exportar dados CSV: Esta funcionalidade possibilita exportar os dados do aplicativo em formato CSV, permitindo análises mais aprofundadas e personalizadas das finanças.
+
 ![image](https://github.com/DevTheo25/Bills_control/assets/122491960/288fcaac-a64c-4ef4-81e0-eae2284670b9) ![image](https://github.com/DevTheo25/Bills_control/assets/122491960/488c055c-aef2-462a-9168-6bc82682cc81)
 
 - Wallet: Esta função oferece acesso a uma nova janela onde é possível armazenar e gerenciar informações de cartões de crédito/débito. Além disso, permite copiar os dados dos cartões com apenas um clique, proporcionando praticidade e segurança.
